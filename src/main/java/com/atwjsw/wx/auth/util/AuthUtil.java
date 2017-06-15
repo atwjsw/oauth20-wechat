@@ -1,6 +1,5 @@
 package com.atwjsw.wx.auth.util;
 
-import net.sf.json.JSON;
 import net.sf.json.JSONObject;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;

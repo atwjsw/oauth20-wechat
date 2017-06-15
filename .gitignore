@@ -1,9 +1,10 @@
 *.class
 
 #package file
-*.jar
+#*.jar
 *.war
 *.ear
+#src/main/webapp/WEB-INF/lib/json-lib-2.4-jdk15.jar
 #src/main/tools/*.jar
 #src/main/webapp/WEB-INF/lib/alipay-sdk-java20161213173952-source.jar
 #src/main/webapp/WEB-INF/lib/alipay-trade-sdk-20161215-source.jar
